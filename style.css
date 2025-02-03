@@ -301,6 +301,60 @@ nav ul li a {
     height: 32px;
     border-radius: 50%;
 }
+footer {
+    background: #121212;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    margin-top: 20px;
+}
+
+.footer-container h2 {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+    color: rgb(0, 200, 250);
+}
+
+.tagline {
+    font-style: italic;
+    color: #ccc;
+    margin-bottom: 10px;
+}
+
+.cta {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.built-with {
+    margin-bottom: 15px;
+}
+
+.social-links a {
+    color: rgb(0,200,250);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.social-links a:hover {
+    color: #FF4500;
+}
+
+.contact a {
+    color: #FFD700;
+    text-decoration: none;
+}
+
+.contact a:hover {
+    text-decoration: underline;
+}
+
+.copyright {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    color: #aaa;
+}
 
 hr {
     color: black;
